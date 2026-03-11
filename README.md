@@ -1,7 +1,7 @@
 This is my Senior Design Project for College.
 
 # Bicycle Helmet with enhanced safety features!
-if you've every went bike riding you'd know as a pedestrian you feel absolutely invisible. People in cars tend to have a wide range of emotions towards cyclists. If anything can help, we think improving the visibility of the cyclist can help increase their presence on roads. This is why we made this project.
+if you've every went bike riding you'd know as a pedestrian you can feel absolutely invisible right up next to the cars and even moreso at night. People in cars tend to have a wide range of emotions towards cyclists. If anything can help, we think improving the visibility of the cyclist can help increase their presence on roads. This is why we made this project.
 
 --- 
 
